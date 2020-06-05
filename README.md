@@ -1,2 +1,4 @@
 # unmanned_river_cleaning_bot
 This project emphasis on cleaning the rivers which are dumped with the plastic waste, with the help of public.
+
+The “Unmanned River Cleaning Bot” is used in that places where there is waste debris in the water body which are to be removed. This machine consists of cleaner mechanism which collects and removes the waste and garbage from water bodies.This work can be implemented using automated bots which results in large dissipation of energy and resources. So our alternative is to build the bots which can be accessed through a web application where the individuals are provided with the real time view of the bot in the river. Now the user is able to see where the garbage is residing and is able to move the dump to the specified location. By this we would be able to clean the rivers with the involvement of public in an interactive way.
